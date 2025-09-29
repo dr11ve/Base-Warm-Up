@@ -94,3 +94,7 @@ _Ifyu: 2025-11-17 00:46:14_
 
 ### test: add gas report
 _Ifyu: 2025-09-29 00:49:50_
+
+
+### docs: add interaction diagram
+_Ifyu: 2025-09-30 00:49:50_
