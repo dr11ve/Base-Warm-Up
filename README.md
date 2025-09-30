@@ -98,3 +98,7 @@ _Ifyu: 2025-09-29 00:49:50_
 
 ### docs: add interaction diagram
 _Ifyu: 2025-09-30 00:49:50_
+
+
+### docs: update protocol guide
+_Ifyu: 2025-10-01 00:49:50_
