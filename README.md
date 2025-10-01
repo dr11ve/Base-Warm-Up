@@ -102,3 +102,7 @@ _Ifyu: 2025-09-30 00:49:50_
 
 ### docs: update protocol guide
 _Ifyu: 2025-10-01 00:49:50_
+
+
+### feat: add Chainlink oracle
+_Ifyu: 2025-10-02 00:49:50_
