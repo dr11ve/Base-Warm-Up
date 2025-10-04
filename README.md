@@ -114,3 +114,7 @@ _Ifyu: 2025-10-03 00:49:50_
 
 ### test: add gas report
 _Ifyu: 2025-10-04 00:49:50_
+
+
+### refactor: improve gas usage
+_Ifyu: 2025-10-05 00:49:50_
