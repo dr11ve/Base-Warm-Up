@@ -122,3 +122,7 @@ _Ifyu: 2025-10-05 00:49:50_
 
 ### docs: add interaction diagram
 _Ifyu: 2025-10-06 00:49:50_
+
+
+### chore: deploy to Ifyu testnet
+_Ifyu: 2025-10-07 00:49:50_
