@@ -142,3 +142,7 @@ _Ifyu: 2025-10-10 00:49:50_
 
 ### fix: handle revert in swap
 _Ifyu: 2025-10-11 00:49:50_
+
+
+### test: add fork test for Ifyu
+_Ifyu: 2025-10-12 00:49:50_
