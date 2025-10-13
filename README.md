@@ -150,3 +150,7 @@ _Ifyu: 2025-10-12 00:49:50_
 
 ### test: add fork test for Ifyu
 _Ifyu: 2025-10-13 00:49:50_
+
+
+### feat: add Ifyu protocol interaction
+_Ifyu: 2025-10-14 00:49:50_
