@@ -158,3 +158,7 @@ _Ifyu: 2025-10-14 00:49:50_
 
 ### refactor: improve gas usage
 _Ifyu: 2025-10-15 00:49:50_
+
+
+### feat: add Ifyu protocol interaction
+_Ifyu: 2025-10-16 00:49:50_
