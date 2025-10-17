@@ -166,3 +166,7 @@ _Ifyu: 2025-10-16 00:49:50_
 
 ### docs: add interaction diagram
 _Ifyu: 2025-10-17 00:49:50_
+
+
+### test: add fork test for Ifyu
+_Ifyu: 2025-10-18 00:49:50_
