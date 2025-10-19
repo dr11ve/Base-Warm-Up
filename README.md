@@ -174,3 +174,7 @@ _Ifyu: 2025-10-18 00:49:50_
 
 ### refactor: improve gas usage
 _Ifyu: 2025-10-19 00:49:50_
+
+
+### feat: add Chainlink oracle
+_Ifyu: 2025-10-20 00:49:50_
