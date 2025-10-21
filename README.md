@@ -182,3 +182,7 @@ _Ifyu: 2025-10-20 00:49:50_
 
 ### feat: add Ifyu protocol interaction
 _Ifyu: 2025-10-21 00:49:50_
+
+
+### docs: add interaction diagram
+_Ifyu: 2025-10-22 00:49:50_
