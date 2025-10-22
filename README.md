@@ -186,3 +186,7 @@ _Ifyu: 2025-10-21 00:49:50_
 
 ### docs: add interaction diagram
 _Ifyu: 2025-10-22 00:49:50_
+
+
+### docs: add interaction diagram
+_Ifyu: 2025-10-23 00:49:50_
