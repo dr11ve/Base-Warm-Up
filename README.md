@@ -206,3 +206,7 @@ _Ifyu: 2025-10-26 00:49:50_
 
 ### fix: handle revert in swap
 _Ifyu: 2025-10-27 00:49:50_
+
+
+### chore: deploy to Ifyu testnet
+_Ifyu: 2025-10-28 00:49:50_
