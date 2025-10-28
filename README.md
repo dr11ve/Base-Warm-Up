@@ -210,3 +210,7 @@ _Ifyu: 2025-10-27 00:49:50_
 
 ### chore: deploy to Ifyu testnet
 _Ifyu: 2025-10-28 00:49:50_
+
+
+### docs: add interaction diagram
+_Ifyu: 2025-10-29 00:49:50_
