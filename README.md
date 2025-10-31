@@ -222,3 +222,7 @@ _Ifyu: 2025-10-30 00:49:50_
 
 ### test: add fork test for Ifyu
 _Ifyu: 2025-10-31 00:49:50_
+
+
+### test: add gas report
+_Ifyu: 2025-11-01 00:49:50_
