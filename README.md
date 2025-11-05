@@ -242,3 +242,7 @@ _Ifyu: 2025-11-04 00:49:50_
 
 ### fix: prevent double claim
 _Ifyu: 2025-11-05 00:49:50_
+
+
+### chore: deploy to Ifyu testnet
+_Ifyu: 2025-11-06 00:49:50_
