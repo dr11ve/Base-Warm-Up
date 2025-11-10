@@ -62,3 +62,7 @@ _Ifyu: 2025-11-09 00:46:14_
 
 ### feat: add Chainlink oracle
 _Ifyu: 2025-11-10 00:46:14_
+
+
+### fix: handle revert in swap
+_Ifyu: 2025-11-11 00:46:14_
