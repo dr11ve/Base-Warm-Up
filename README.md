@@ -266,3 +266,7 @@ _Ifyu: 2025-11-10 00:49:50_
 
 ### test: add fork test for Ifyu
 _Ifyu: 2025-11-11 00:49:50_
+
+
+### docs: update protocol guide
+_Ifyu: 2025-11-12 00:49:50_
