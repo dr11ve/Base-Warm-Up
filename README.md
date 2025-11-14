@@ -78,3 +78,7 @@ _Ifyu: 2025-11-13 00:46:14_
 
 ### fix: prevent double claim
 _Ifyu: 2025-11-14 00:46:14_
+
+
+### refactor: improve gas usage
+_Ifyu: 2025-11-15 00:46:14_
