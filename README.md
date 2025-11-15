@@ -82,3 +82,7 @@ _Ifyu: 2025-11-14 00:46:14_
 
 ### refactor: improve gas usage
 _Ifyu: 2025-11-15 00:46:14_
+
+
+### test: add fork test for Ifyu
+_Ifyu: 2025-11-16 00:46:14_
