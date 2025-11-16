@@ -286,3 +286,7 @@ _Ifyu: 2025-11-15 00:49:50_
 
 ### feat: add Chainlink oracle
 _Ifyu: 2025-11-16 00:49:50_
+
+
+### feat: add Ifyu protocol interaction
+_Ifyu: 2025-11-17 00:49:50_
