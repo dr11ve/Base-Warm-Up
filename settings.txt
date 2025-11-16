@@ -1,0 +1,48 @@
+# Настройки для модулей
+
+# Bungee - проценты от баланса ETH (0-100%)
+bungee_eth_min=0.0
+bungee_eth_max=0.5
+use_random_bungee=True
+
+# Pancake - проценты от баланса ETH (0-100%)
+pancake_eth_min=0.0
+pancake_eth_max=0.5
+use_random_pancake=True
+
+# Uniswap - проценты от баланса ETH (0-100%)
+uniswap_eth_min=0.0
+uniswap_eth_max=0.5
+use_random_uniswap=True
+
+# Pendle - проценты от баланса ETH (0-100%)
+pendle_eth_min=0.0
+pendle_eth_max=0.5
+use_random_pendle=True
+
+# Compound - проценты от баланса ETH (0-100%)
+compound_eth_min=0.0
+compound_eth_max=0.5
+use_random_compound=True
+
+# Beefy - проценты от баланса ETH (0-100%)
+beefy_eth_min=0.0
+beefy_eth_max=0.5
+use_random_beefy=True
+
+# AAVE - проценты от баланса ETH (0-100%)
+aave_eth_min=0.0
+aave_eth_max=0.5
+use_random_aave=True
+
+# MoonWell - проценты от баланса ETH (0-100%)
+moonwell_eth_min=0.0
+moonwell_eth_max=0.5
+use_random_moonwell=True
+
+# Автоматический режим - задержка между операциями (секунды)
+delay_min=1.0
+delay_max=10.0
+
+# Количество попыток для повторного выполнения неудачных транзакций (0 = без ограничений)
+max_retry_attempts=3
